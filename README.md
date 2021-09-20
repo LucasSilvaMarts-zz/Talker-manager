@@ -31,4 +31,4 @@ Neste projeto, fui capaz de:
 
 - Entre no diretório do projeto e instale as dependências: cd talker-manager && npm install
 
-- Rode o projeto: npm start e utilize as rotas da API com o seu client preferido, insomnia, por exemplo.
+- Rode o projeto: npm start e utilize as rotas da API com o seu client preferido, Insomnia, por exemplo.
